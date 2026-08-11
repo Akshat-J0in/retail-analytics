@@ -140,6 +140,7 @@ Open `main.ipynb` and run all cells in order:
 The Power BI dashboard includes:
 
 **Page 1 — Sales Overview**
+![Sales Overview](screenshots/page1.png)
 - KPI cards: Total Revenue, Total Invoices, Total Customers, Average Order Value
 - Revenue by Country bar chart
 - Revenue by Year line chart
@@ -147,6 +148,7 @@ The Power BI dashboard includes:
 - Daily Revenue Trend
 
 **Page 2 — Product Performance**
+![Product Performance](screenshots/page2.png)
 - Top 10 Products by Revenue
 - Top 10 Products by Quantity Sold
 
