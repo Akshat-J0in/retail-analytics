@@ -1,0 +1,6 @@
+pandas
+openpyxl
+numpy
+sqlalchemy
+pyodbc
+google-cloud-bigquery
